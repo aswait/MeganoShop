@@ -1,0 +1,8 @@
+asgiref==3.7.2
+diploma-frontend @ file:///home/newuser/PycharmProjects/MeganoShop/Python_django_diploma_dpo-master/diploma-frontend/dist/diploma-frontend-0.6.tar.gz#sha256=3a6b1203724b256946919b4d65b362b005ae6a9e1e93d8d765e96aa6a92764ac
+Django==4.2.3
+djangorestframework==3.14.0
+Pillow==10.0.0
+pytz==2023.3
+sqlparse==0.4.4
+typing_extensions==4.7.1
